@@ -2,3 +2,4 @@ expand.py
 *.xlsx
 test.py
 *.csv
+__pycache__/*
